@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_library"
+        android:icon="@drawable/library1"
+        android:title="@string/tab_library" />
+    <item
+        android:id="@+id/tab_books"
+        android:icon="@drawable/book1"
+        android:title="@string/tab_books" />
+    <item
+        android:id="@+id/tab_view"
+        android:icon="@drawable/view1"
+        android:title="@string/tab_view" />
+    <item
+        android:id="@+id/tab_info"
+        android:icon="@drawable/info2"
+        android:title="@string/tab_info" />
+</menu>

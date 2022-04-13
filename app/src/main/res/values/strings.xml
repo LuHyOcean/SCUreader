@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SCUlib</string>
+    <string name="tab_library">tab_library</string>
+    <string name="tab_books">tab_books</string>
+    <string name="tab_view">tab_view</string>
+    <string name="tab_info">tab_info</string>
+</resources>
